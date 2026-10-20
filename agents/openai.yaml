@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pink Elephant (反向声明与粉红大象清理)"
+  short_description: "清理仓库中的负面指令、反向声明、墓碑注释与废弃概念警告，改写为正面可执行标准"
+  default_prompt: "Use $pink-elephant to audit this repository for negative instructions, reverse declarations, and tombstone comments, rewriting valid rules into affirmative instructions and deleting deprecated remnants."
